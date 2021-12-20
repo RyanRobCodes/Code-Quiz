@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    margin: 150px 0px 0px 25px;
+}
+
+p {
+text-align: center;
+}
+
+button {
+display:block;
+text-align: center;
+margin: 0 auto;
+
+}
+
+#timer {
+text-align: right;
+
+}
